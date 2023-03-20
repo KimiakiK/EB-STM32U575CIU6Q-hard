@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EB-STM32U575CIU6Q")(type "KiCad")(uri "${KIPRJMOD}/EB-STM32U575CIU6Q.kicad_sym")(options "")(descr ""))
+)
